@@ -218,4 +218,4 @@ YUI.add('gallery-textarea-autoheight', function(Y) {
   });
 
 
-}, '@VERSION@' ,{requires:['plugin', 'base-build', 'node'], skinnable:false});
+}, 'gallery-2012.05.09-20-27' ,{requires:['plugin', 'base-build', 'node'], skinnable:false});
